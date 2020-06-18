@@ -1,0 +1,37 @@
+{
+  "short_name": "AGV DashBoard",
+  "name": "AGV DashBoard",
+  "description": "AGV DashBoard",
+  "icons": [
+    {
+      "src": "img/Q_AGV_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/Q_AGV_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/Q_AGV_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/Q_AGV_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "img/Q_AGV_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#d2d8df",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3f51b5"
+}
